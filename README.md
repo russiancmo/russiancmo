@@ -32,6 +32,10 @@
 <div styles="display: flex;">
 <img src="https://camo.githubusercontent.com/93a4a96e0e16b20aa4421c6dfe5f2c76a28c81db660f933b791e1955114ed498/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6368612d3844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f636861266c6f676f436f6c6f723d7768697465" /> <img src="https://camo.githubusercontent.com/5ec7b7ed343219da6b2213349bacdc389803950b5298464b35e76f7ab6ccf27d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465" />
 </div>
+<h3>Прокачка скиллов</h3>
+<div>
+<img src="https://www.codewars.com/users/lobodaigor/badges/large" />
+</div>
 <h2>📝 Мой блок</h2>
 Тут я немного пишу о стартапах :) Собираюсь постепенно развивать эту деятельность. <br>
 <a href="https://vc.ru/u/791575-dobrostartup">https://vc.ru/u/791575-dobrostartup</a>
