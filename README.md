@@ -34,7 +34,7 @@
 </div>
 <h3>Соревнования</h3>
 <div>
-<img src="https://www.codewars.com/users/lobodaigor/badges/large" />
+<a href="https://www.codewars.com/users/lobodaigor" target="_blank"><img src="https://www.codewars.com/users/lobodaigor/badges/large" /></a>
 </div>
 <h2>📝 Мой блок</h2>
 Тут я немного пишу о стартапах :) Собираюсь постепенно развивать эту деятельность. <br>
